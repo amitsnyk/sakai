@@ -14,13 +14,13 @@
 	<packaging>war</packaging>
 	<properties>
 		<!-- This is used in re-write rules as well -->
-		<ckeditor.version>4.16.1</ckeditor.version>
+		<ckeditor.version>4.19.0</ckeditor.version>
 		<bootstrap-version>3.3.7</bootstrap-version>
 		<font-awesome-version>4.7.0</font-awesome-version>
 		<!-- Default extra plugins enabled -->
 		<ckeditor-extra-plugins>sakaipreview,sakaidropdowntoolbar,sakaiopenlink,</ckeditor-extra-plugins>
 		<!-- Empty defaults for a11y-->
-		<ckeditor-a11y-extra-plugins></ckeditor-a11y-extra-plugins>
+		<ckeditor-a11y-extra-plugins/>
 	</properties>
 	<dependencies>
 		<dependency>
