@@ -24,7 +24,7 @@
     "@popperjs/core": "2.9.3",
     "cropperjs": "1.5.12",
     "lit-element": "2.5.1",
-    "moment": "2.29.1",
+    "moment": "2.29.4",
     "sortablejs": "1.14.0"
   },
   "devDependencies": {
